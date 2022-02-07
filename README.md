@@ -1,6 +1,5 @@
-# news-stocks-cryptoPrices-react-native-app
+# Business Daily Mobile App <br> https://www.youtube.com/watch?v=TfdJhcw-w5w
 
-## App Demo:
 [![Youtube Video Link](https://img.youtube.com/vi/TfdJhcw-w5w/0.jpg)](https://www.youtube.com/watch?v=TfdJhcw-w5w)
 
 ## Description: 
